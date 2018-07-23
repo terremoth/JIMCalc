@@ -67,7 +67,7 @@ public class JIMCalc
         }
         
         if (calc >= 30) {
-            result = "Acima do Peso";
+            result = "Obeso";
         }
         
         JOptionPane.showMessageDialog(null, 
